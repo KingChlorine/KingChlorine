@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KingChlorine
 - 👀 I’m interested in ... Art, music and games.
-- 🌱 I’m currently learning ... HTML, CSS AND JAVA.
+- 🌱 I’m currently learning ... HTML, CSS AND JavaScript.
 - 💞️ I’m looking to collaborate on ... Anything beginner friendly!
 - 📫 How to reach me ... 
 - 😄 Pronouns: ...
