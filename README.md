@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KingChlorine
-- 👀 I’m interested in ... Art, music and games.
+- 👀 I’m interested in ... Learning, creating and angry music.
 - 🌱 I’m currently learning ... HTML, CSS AND JavaScript.
 - 💞️ I’m looking to collaborate on ... Anything beginner friendly!
 - 📫 How to reach me ... 
