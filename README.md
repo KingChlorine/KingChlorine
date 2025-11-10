@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @KingChlorine
-- 👀 I’m interested in ... Learning, creating and angry music.
+- 👀 I’m interested in ... Gaming, art and music
 - 🌱 I’m currently learning ... HTML, CSS AND JavaScript.
 - 💞️ I’m looking to collaborate on ... Anything beginner friendly!
-- 📫 How to reach me ... 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
+
 
 <!---
 KingChlorine/KingChlorine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
