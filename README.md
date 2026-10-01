@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KingChlorine
-- 👀 I’m interested in ... Gaming, art and music
+- 👀 I’m a computing science student
 - 🌱 I’m currently learning ... Python, HTML, CSS AND JavaScript.
 
 
