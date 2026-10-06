@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @KingChlorine
-- 👀 I’m a computing science student
+- 👋 Hi, I’m a first year computing science student
 - 🌱 I’m currently learning ... Python, HTML, CSS AND JavaScript.
 
 
